@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Brain Teaser</string>
+    <string name="Text1_name">Registration</string>
+    <string name="Text2_name">Login</string>
+    <string name="Text3_name">Cancel</string>
+    <string name="user_hint">Username</string>
+    <string name="pass_hint">Password</string>
+    <string name="Auto_hint1">Username</string>
+    <string name="Auto_hint2">Password</string>
+    <string name="image_view"> Brain teaser</string>
+    <string name="Btn_3">Book marks</string>
+    <string name="Btn_4">Start Quiz</string>
+    <string name="list_ani1">null</string>
+    <string name="title_1">Title</string>
+    <string name="set1">Sets</string>
+    <string name="num1">1</string>
+
+
+</resources>
