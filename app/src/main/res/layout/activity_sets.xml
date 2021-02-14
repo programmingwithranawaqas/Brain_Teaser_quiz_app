@@ -8,9 +8,10 @@
     tools:context=".SetsActivity">
 
     <androidx.appcompat.widget.Toolbar
-        android:id="@+id/Toolbar"
+        android:id="@+id/toolbar"
         android:layout_width="match_parent"
         android:background="@color/teal_200"
+        android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
         android:layout_height="?attr/actionBarSize" />
 
     <TextView

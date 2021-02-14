@@ -14,6 +14,11 @@
     <string name="title_1">Title</string>
     <string name="set1">Sets</string>
     <string name="num1">1</string>
+    <string name="ques">Question</string>
+    <string name="num_indicator">5/10</string>
+    <string name="options_btn">option</string>
+    <string name="share_btn">Share</string>
+    <string name="next_btn">next</string>
 
 
 </resources>
